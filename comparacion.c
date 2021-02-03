@@ -1,6 +1,6 @@
 #include <stdio.h>
 int Comparacion (int, int);
-
+//hola
 int main(){
 	
 	int numero1=0, numero2=0, numerogrande=0;
